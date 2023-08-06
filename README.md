@@ -7,11 +7,11 @@
 ## Giới Thiệu Về Tôi 💬 
 <big><pre>
 &#62; ./send_me_an_email
-[j.dauda@alustudent.com](mailto:ptrithuan1412@gmail.com)
-&#62; ./connect_on_linkedin
-[linkedin.com/in/jeffdauda](https://linkedin.com/)
+[ptrithuan1412@gmail.com](mailto:ptrithuan1412@gmail.com)
+&#62; ./connect_on_facebook
+[fb.com/thuandeveloper2004](https://www.facebook.com/thuandeveloper2004?mibextid=ZbWKwL)
 &#62; ./visit_my_website
-[personal_website](https://phamtrithuanchangtraisinhnam2004.blogspot.com/)
+[website của tôi](https://phamtrithuanchangtraisinhnam2004.blogspot.com/)
 </pre></big>
 <br>
 <a href="https://jefftrojan.github.io">
