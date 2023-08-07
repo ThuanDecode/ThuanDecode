@@ -22,16 +22,16 @@
 
 <img hight="400" width="330" alt="GIF" align="left" src="https://i.ibb.co/cX5G7rt/IMG-20230806-185534-563-x-564-pixel.jpg">
   
-### - Thông Tin 
-- **Sinh năm: 2004**
-- **Quê quán: Bến Tre**
-- **Quốc tịch: Việt nam**
+  ### - Thông Tin 
+  - **Sinh năm: 2004**
+  - **Quê quán: Bến Tre**
+  - **Quốc tịch: Việt nam**
 
-### - Sở thích
-- **Du lịch**
-- **Chụp ảnh**
-- **Đọc sách**
-- **Nghe nhạc**
+  ### - Sở thích
+  - **Du lịch**
+  - **Chụp ảnh**
+  - **Đọc sách**
+  - **Nghe nhạc**
   
 
 
