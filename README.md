@@ -91,4 +91,22 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=HappyBirthdayToMe)](https://github.com/ThuanDecode/HappyBirthdayToMe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=DemNgayTetViet)](https://github.com/ThuanDecode/DemNgayTetViet)
 
-https://m.youtube.com/watch?v=dPdyZsY4h4k&pp=ygUSQW5oIHZhbiBvIGRheSBsb2Zp
+Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/ThuanCode
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
+```
