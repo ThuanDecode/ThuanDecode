@@ -35,7 +35,10 @@
   
 
 
+
 </br>
+
+
 ### GitHub top languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ```
@@ -63,33 +66,5 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### GitHub All Stats
-<img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="ThuanDecode" />
-
-```
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="ThuanDecode" />
-```
-Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can also be rearranged using url parameters. Find out more at https://github.com/ThuanDecode
-
----
-
-### Longest streak stats
-```
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-```
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-
----
-
-### List projects
-```
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=HappyBirthdayToMe)](https://github.com/ThuanDecode/HappyBirthdayToMe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=DemNgayTetViet)](https://github.com/ThuanDecode/DemNgayTetViet)
-```
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=HappyBirthdayToMe)](https://github.com/ThuanDecode/HappyBirthdayToMe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=DemNgayTetViet)](https://github.com/ThuanDecode/DemNgayTetViet)
-
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
 
