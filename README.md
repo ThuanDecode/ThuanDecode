@@ -34,6 +34,85 @@
 - **Nghe nhạc**
 
 </br>
+### GitHub top languages
+```
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+```
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+---
+
+### GitHub All Stats
+<img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+```
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+```
+Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can also be rearranged using url parameters. Find out more at https://github.com/PressJump/reimaginedreadme
+
+---
+
+### Longest streak stats
+```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
+---
+
+### List projects
+```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+
+```
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+```
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/simple-sqlite"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 
