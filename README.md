@@ -93,20 +93,3 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 
 Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
 
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/ThuanCode
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
