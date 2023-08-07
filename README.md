@@ -37,7 +37,6 @@
 
 </br>
 ### GitHub top languages
-```
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ```
 
@@ -70,3 +69,10 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=DemNgayTetViet)](https://github.com/ThuanDecode/DemNgayTetViet)
 
 ```
+### Spotify playing
+```
+[![Spotify](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)
+```
+[![Spotify](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)
+
+---
