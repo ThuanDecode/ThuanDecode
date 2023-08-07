@@ -67,9 +67,3 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 ```
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=HappyBirthdayToMe)](https://github.com/ThuanDecode/HappyBirthdayToMe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThuanDecode&repo=DemNgayTetViet)](https://github.com/ThuanDecode/DemNgayTetViet)
-
-```
-### Spotify playing
-[![Spotify](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)
-```
-[![Spotify](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)
