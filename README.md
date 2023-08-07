@@ -70,9 +70,6 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 
 ```
 ### Spotify playing
-```
 [![Spotify](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)
 ```
 [![Spotify](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)](https://open.spotify.com/track/2aY3oxVB7ZkwK8Sqqn2gx8)
-
----
