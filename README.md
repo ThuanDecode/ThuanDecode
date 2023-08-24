@@ -1,3 +1,18 @@
+<p align="center"><img src="https://img.shields.io/badge/Viet Nam - Coder -green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+   Welcome To My Github
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+</h3>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Phạm+Trí+Thuận;+Thuận+có+chiều+cao+1m7;Thuận+đẹp+try;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+ 
+</p>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
 ## Giới Thiệu Về Tôi 💬 
 <big><pre>
 &#62; ./send_me_an_email
