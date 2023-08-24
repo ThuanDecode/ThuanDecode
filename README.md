@@ -7,7 +7,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Phạm+Trí+Thuận;+Thuận+có+chiều+cao+1m7;Thuận+đẹp+try;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Phạm+Trí+Thuận;Thuận+đẹp+try;Thank+You+Everyone+😉)](https://git.io/typing-svg)
  
 </p>
  
